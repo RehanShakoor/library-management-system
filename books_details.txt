@@ -1,0 +1,6 @@
+book1	author1	11
+book2	author2	10
+book3	author3	6
+book4	author4	8
+book5	author5	10
+book6	author6	4
